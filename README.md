@@ -10,3 +10,10 @@ Useful Links
 * https://deep-learning-drizzle.github.io/index.html
 
 * http://aan.how/browse/resources/
+
+https://www-nlpir.nist.gov/projects/duc/data.html
+
+https://www.cs.bgu.ac.il/~elhadad/summary-test.html
+
+https://summari.es
+
